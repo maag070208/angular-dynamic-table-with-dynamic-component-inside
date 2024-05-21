@@ -6,6 +6,9 @@
     "email": "maag070208@gmail.com",
     "url": "https://maag070208.com"
   },
+  "stackblitz": {
+    "startCommand": "npm install & npm start"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
